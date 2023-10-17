@@ -17,7 +17,10 @@ Once the image is built, you can create a container from it using the following 
 You can now access your 2048 game application in your web browser by entering the IP address of your host machine and port 80.
 
 
+
+
 Second Method: Creating the 2048 Game Application using Elastic Beanstalk
+
 
 Navigate to the Elastic Beanstalk service in your AWS account.
 
