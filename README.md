@@ -7,7 +7,7 @@ Inside the "2048-game" directory, create a Dockerfile. This Dockerfile will cont
 
 Build the Docker image using the Dockerfile by running the following command in your terminal:
 
-         $docker build . -t 2048-game
+     $docker build . -t 2048-game
 This command tells Docker to build an image named "2048-game" from the Dockerfile in the current directory.
 
 Once the image is built, you can create a container from it using the following command:
